@@ -1,0 +1,18 @@
+footer
+{
+    background: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    position: fixed;
+    bottom: 0;
+}
+p
+{
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
