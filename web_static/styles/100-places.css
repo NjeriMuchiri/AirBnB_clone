@@ -87,6 +87,12 @@
 .user {
   margin-bottom: 1.5%;
 }
+.places .amenities
+{
+position: relative;
+height: 70px;
+width: 100%;
+}
 .places .amenities h2
 {
     font-size: 16px;
@@ -119,4 +125,29 @@
 .places .amenities ul li:nth-child(4) {
     background: url("../images/icon_pool.png") no-repeat top center;
     width: 100px;
+}
+.places .reviews
+{
+position: relative;
+height: auto;
+width: 100%;
+padding-top: 180px;
+}
+.places .reviews h2
+{
+font-size: 16px;
+margin-top: 40px;
+border-bottom: 1px solid #DDDDDD;
+}
+.places .reviews ul li
+{
+    list-style-type: none;
+}
+.places .reviews ul li h3
+{
+    font-size: 14px;;
+}
+.places .reviews ul li p
+{
+    font-size: 12px;
 }
